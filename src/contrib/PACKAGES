@@ -1,0 +1,8 @@
+Package: rcbc
+Version: 0.1.0.9001
+Imports: Rcpp, methods, Matrix, assertthat
+LinkingTo: Rcpp
+Suggests: testthat
+License: GPL-3 + file LICENSE
+MD5sum: 6c19dee11e72c5ba2d3045fe897be09c
+NeedsCompilation: yes
