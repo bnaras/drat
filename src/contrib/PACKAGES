@@ -1,3 +1,10 @@
+Package: gurobi
+Version: 9.0-3
+Depends: slam (>= 0.1-9)
+License: LGPL (>= 2.1)
+MD5sum: 579cb584f7bca18423e4108ee3fbcd86
+NeedsCompilation: yes
+
 Package: rcbc
 Version: 0.1.0.9001
 Imports: Rcpp, methods, Matrix, assertthat
