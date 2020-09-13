@@ -2,7 +2,7 @@ Package: gurobi
 Version: 9.0-3
 Depends: slam (>= 0.1-9)
 License: LGPL (>= 2.1)
-MD5sum: 579cb584f7bca18423e4108ee3fbcd86
+MD5sum: ef49e9e16e6c42f87498465bd75cb799
 NeedsCompilation: yes
 
 Package: rcbc
