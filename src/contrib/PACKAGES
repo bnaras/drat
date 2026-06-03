@@ -2,5 +2,5 @@ Package: ipopt
 Version: 1.0
 Suggests: tinytest, knitr, rmarkdown
 License: EPL
-MD5sum: eb5f12380ac77f239a8402b6e9f1e2c1
+MD5sum: 2b2672da957d2994c0118b1c1c9c4cef
 NeedsCompilation: yes
