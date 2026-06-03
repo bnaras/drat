@@ -18,5 +18,9 @@ distributed here (in `src/contrib`); there are no binary builds.
   uses it as one of the backends for its differentiable nonlinear programming
   (DNLP) path.
 
-  See <https://bnaras.github.io/ipopt/> for platform-specific instructions on
-  installing Ipopt and building the package from source.
+  The package is always installed **from source** against a locally available
+  Ipopt — on Linux (and macOS) that is the system Ipopt found via `pkg-config`
+  (e.g. `apt-get install coinor-libipopt-dev pkg-config` on Debian/Ubuntu),
+  and on Windows it links against Ipopt's official prebuilt release DLL. See
+  <https://bnaras.github.io/ipopt/> for the full platform-specific
+  instructions.
